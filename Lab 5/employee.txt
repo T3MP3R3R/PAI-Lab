@@ -1,0 +1,5 @@
+Name: Muhammad Sarim
+CNIC: 4212345678901
+Age: 22
+Salary: 40000
+Contact: 03012345678
