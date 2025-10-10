@@ -1,0 +1,43 @@
+1. Input/Output:
+print(): Displays output to the console.
+input(): Reads user input from the console.
+2. Type Conversion:
+int(): Converts to an integer.
+float(): Converts to a floating-point number.
+str(): Converts to a string.
+list(): Converts to a list.
+tuple(): Converts to a tuple.
+dict(): Converts to a dictionary.
+set(): Converts to a set.
+3. Mathematical Operations:
+abs(): Returns the absolute value of a number.
+max(): Returns the largest item in an iterable or the largest of two or more arguments.
+min(): Returns the smallest item in an iterable or the smallest of two or more arguments.
+sum(): Returns the sum of all items in an iterable.
+pow(): Returns the result of a number raised to a power.
+round(): Rounds a number to a specified number of decimal places.
+4. String Manipulation:
+len(): Returns the length of an object (e.g., string, list, tuple).
+str.upper(), str.lower(): Converts string to uppercase/lowercase.
+str.strip(): Removes leading and trailing whitespace.
+str.split(): Splits a string into a list of substrings.
+str.join(): Joins elements of an iterable into a string.
+str.replace(): Replaces occurrences of a substring.
+5. List/Tuple Manipulation:
+list.append(): Adds an element to the end of a list.
+list.insert(): Inserts an element at a specified position.
+list.remove(): Removes the first occurrence of a specified value.
+list.pop(): Removes and returns an element at a specified index.
+list.sort(), sorted(): Sorts a list in place or returns a new sorted list.
+6. Iteration and Control Flow:
+range(): Generates a sequence of numbers.
+enumerate(): Adds a counter to an iterable.
+zip(): Combines multiple iterables.
+filter(): Filters elements from an iterable based on a function.
+map(): Applies a function to each item in an iterable.
+7. Other Useful Functions:
+type(): Returns the type of an object.
+isinstance(): Checks if an object is an instance of a specified class.
+dir(): Returns a list of attributes and methods of an object.
+help(): Provides documentation for an object or function.
+open(): Opens a file for reading or writing.
